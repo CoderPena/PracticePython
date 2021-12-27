@@ -10,3 +10,4 @@ if nNum % nCheck == 0:
 	print(str(nNum) + " is divisible by " + str(nCheck))
 else:
 	print(str(nNum) + " is not divisible by " + str(nCheck))
+	
